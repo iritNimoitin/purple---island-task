@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Water",
+        "value": 1,
+        "amount": 1
+    },
+    {
+        "name": "Shirt",
+        "value": 3,
+        "amount": 1
+    },
+    {
+        "name": "Pants",
+        "value": 4,
+        "amount": 1
+    },
+    {
+        "name": "Dog",
+        "value": 5,
+        "amount": 1
+    },
+    {
+        "name": "Soup",
+        "value": 8,
+        "amount": 1
+    },
+    {
+        "name": "Be developer",
+        "value": 10,
+        "amount": 1
+    }
+]
